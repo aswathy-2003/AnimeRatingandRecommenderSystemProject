@@ -1,4 +1,4 @@
-# Anime Rating and Recommendation System
+# Anime Rating Analysis and Recommendation System
 
 ## 📌 Project Overview
 This project analyses anime user rating data from MyAnimeList and develops 
